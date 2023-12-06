@@ -162,3 +162,8 @@ cython_debug/
 node_modules/
 
 .DS_Store
+09-building-image-applications/bunny_lollipop.jpeg
+09-building-image-applications/image_edit_mask.webp
+09-building-image-applications/image_edit_original.webp
+09-building-image-applications/images/generated-image.png
+09-building-image-applications/images/generated-image.png
